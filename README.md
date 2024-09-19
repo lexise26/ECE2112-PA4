@@ -26,6 +26,12 @@ Step 4: Extract Data for Mindanao - Select rows where the 'Average' score is 55 
 
 Step 5: Plot the Average Scores - Create a horizontal bar plot to visualize the effect of 'Track', 'Gender', and 'Hometown' on the 'Average' score.
 
+Step 6: Prepare the Data and Plot Setup - Assign the 'Average' column to a variable x, set the figure size (20x10), and apply the 'fivethirtyeight' plot style.
+
+Step 7: Create the Plot - Generate three horizontal bar graphs comparing 'Track', 'Gender', and 'Hometown' with average scores, and label the axes and title appropriately.
+
+Step 8: Add Legend and Display - Include a legend to distinguish between the categories and display the final plot using plt.show().
+
 
 ## Conclusion
 
